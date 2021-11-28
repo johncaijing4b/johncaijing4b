@@ -15,8 +15,5 @@ I'm Akas, a self-motivated tech enthusiast and full stack web developer.
 <h3 align="center">
 My Tech Stacks
 </h3>
-
-<h3 align="center">
-<img src="https://raw.githubusercontent.com/johncaijing4b/johncaijing4b/master/assets/stack-hills.svg" alt="stacks"/>
-</h3>
+ 
 ⭐️ From [johncaijing4b](https://github.com/[johncaijing4b])`
